@@ -50,3 +50,11 @@ cd proyecto
 [![click para video](asset/gordas.png)](https://www.youtube.com/watch?v=-oA1zpZwNO4&t=332s)
 
 [![click para video](https://wwwhatsnew.com/wp-content/uploads/2022/10/captura22-1200x659.jpg)](https://www.youtube.com/watch?v=-oA1zpZwNO4&t=332s)
+
+
+---
+## DEMO
+
+si quieres ver el programa dar click
+
+[opem in StackBlitz](https://stackblitz.com/edit/secret-python-ya3hjjvp?file=main.py&title=Python%20Starter)
