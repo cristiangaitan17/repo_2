@@ -2,6 +2,7 @@
 
 
 conflictoo usuario 2
+linea para generar conflicto con desarrollador  
 
 ---
 ## tablla de contenido 
@@ -11,10 +12,11 @@ conflictoo usuario 2
 - [instalacion](instalacion )
 
 
-## caracteristicas del proyecto
+## caracteristicas del Proyecto
 - funcionalidad 1
 - funcionalidad 2
 - funcionalidad 3
+- avr  diga funcionalidades
 
 ---
 
@@ -22,6 +24,7 @@ conflictoo usuario 2
 - lenguaje / framework principal
 - bases de datos 
 - librerias claves
+- HTML 
 
 ---
 
@@ -37,5 +40,6 @@ conflictoo usuario 2
 pasos para instalar el proyecto localmente
 
 ```bash
-git clone https://github.com/cristiangaitan17/repo_2.git
+git clone https://github.com/cristiangaitan17/repo_2
 cd proyecto 
+
