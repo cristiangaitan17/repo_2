@@ -43,4 +43,9 @@ pasos para instalar el proyecto localmente
 ```bash
 git clone https://github.com/cristiangaitan17/repo_2
 cd proyecto 
+```
+---
+
+## video tutorial 
+[![click para video](asset/gordas.png)] (https://www.youtube.com/watch?v=-oA1zpZwNO4&t=332s)
 
