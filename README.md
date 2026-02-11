@@ -47,5 +47,5 @@ cd proyecto
 ---
 
 ## video tutorial 
-[![click para video](asset/gordas.png)] (https://www.youtube.com/watch?v=-oA1zpZwNO4&t=332s)
+[![click para video](asset/gordas.png)](https://www.youtube.com/watch?v=-oA1zpZwNO4&t=332s)
 
