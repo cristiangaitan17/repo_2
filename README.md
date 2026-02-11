@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git contribuyentes
 
 
-linea para generar conflicto con desarrollador
+linea para generar conflicto con desarrollador  
 
 ---
 ## tablla de contenido 
