@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git contribuyentes
 
 
-breve descripcion
+linea para generar conflicto con desarrollador  
 
 ---
 ## tablla de contenido 
@@ -15,7 +15,7 @@ breve descripcion
 - funcionalidad 1
 - funcionalidad 2
 - funcionalidad 3
-- funcionalidad 4
+- avr  diga funcionalidades
 
 ---
 
