@@ -37,5 +37,6 @@ breve descripcion
 pasos para instalar el proyecto localmente
 
 ```bash
-git clone https://github.com/cristiangaitan17/repo_2.git
+git clone https://github.com/cristiangaitan17/repo_2
 cd proyecto 
+
