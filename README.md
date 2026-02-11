@@ -11,7 +11,7 @@ linea para generar conflicto con desarrollador
 - [instalacion](instalacion )
 
 
-## caracteristicas del proyecto
+## caracteristicas del Proyecto
 - funcionalidad 1
 - funcionalidad 2
 - funcionalidad 3
@@ -23,6 +23,7 @@ linea para generar conflicto con desarrollador
 - lenguaje / framework principal
 - bases de datos 
 - librerias claves
+- HTML 
 
 ---
 
