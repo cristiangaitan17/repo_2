@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git contribuyentes
 
 
-breve descripcion
+conflictoo usuario 2
 
 ---
 ## tablla de contenido 
