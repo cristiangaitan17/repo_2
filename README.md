@@ -11,10 +11,11 @@ breve descripcion
 - [instalacion](instalacion )
 
 
-## caracteristicas del proyecto
+## caracteristicas del Proyecto
 - funcionalidad 1
 - funcionalidad 2
 - funcionalidad 3
+- funcionalidad 4
 
 ---
 
@@ -22,6 +23,7 @@ breve descripcion
 - lenguaje / framework principal
 - bases de datos 
 - librerias claves
+- HTML 
 
 ---
 
