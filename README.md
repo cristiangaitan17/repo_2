@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git contribuyentes
 
 
-breve descripcion
+linea para generar conflicto rama cristian 
 
 ---
 ## tablla de contenido 
